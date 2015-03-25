@@ -1,0 +1,12 @@
+- path: java
+  file: Multithreading-and-Concurrency-Questions.pdf
+  name: Multithreading and Concurrency
+
+- path: oopd
+  file: designpatterns_online-rc008.pdf
+  name: Design Patterns
+
+- path: scea
+  file: Sun Certified Enterprise Architect for Java EE Study Guide 2e - Cade, Sheil - Printice Hall (2010).pdf
+  name: Sun Certified Enterprise Architect
+
